@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neural-passkey-317416",
+  "private_key_id": "dbfc73b4b2c41760d3e0368e71cfd91ff94fb3e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCw9DMdoP28UWaU\nig1SsPSvquxsiQLfsZVPdLU9njHWAPVEMoIkMD6LF5wUM3q3n8cAkRK7XkPQoIg2\nkl3Su0L5Z8FsXlZ8x9AyMsbvcFcZRvN2OXbvYUqOqn2B2oq8Wz/UkTRKfWwkB+Qd\n4RWy7izanAzK66IoaYI6FTNiSbneczGkqqf9gIQifeJfF2mljsJkZau+7/OG4ox7\nrafCMiVP0rQUMmqOwCYkUCq1vrUzXLsq+eRM1Z3U+oj+VtGNwi6lx+UxuE+dzJHP\nGSlJw37wejWoqID4Sf5St4YocP+D03lg0NWJ24brHSEpv60E9z/ZWdmnVQLhR0dI\n9SXRVtoLAgMBAAECggEANymJHb1oG+KMRdXbXWHIhVKVLShw+ubTEtfg//pmsr3N\nt5q/MyTO+nE7uJhrsv5d/PE8k6hJH6pLjCeIk/7IXBNaGrw13eQ0JNHrbgzpOfoC\nP2KejvUXVu4S/f3wrdMMTOmPEYGTyo+jLyVRrFvPI77txfw6qrppXE3rnMI67Psb\nKQH3Spp4kbe1jq5xzk8rgTc3trA8pgkhheXi9yUlfrrkd1DQHSUcL12nfi/SaZB1\naZoSziwC/4xaP8VMLS06jypJgMiVUDGqdGi237wV8MuEj/yksDb3eZoWzC2B849y\n4Ds5TM/83b6ZIkfcOSa36/afOa8GdjbE3BtDLWGlEQKBgQDgCGPbBFc3YnEjKJPh\nqOEFIpF3z1z9+m/jofYeW9BbO6Bz/zy2P/DGljPuYfzdsN65vg0/WlNTCHTNuy6Z\nhYNvs7kVvvA/a+u45rqDlyBM2OZsoBRO5/EfslQGj1k4RgKRS2Bfn85obD9jLJgK\nXI9P392s4/epEw06j+VkR01rTwKBgQDKNBVGqcuoEh8morPxfDPrUJS2FGokj1uV\ncLFiyvN8sQY6Vxrz0DxZAhhwzqpzxh8WLOZGEAVSjF+3WesYZigk3UvtG34IA+D2\n562slYEd1OVxU1iqspj6427Lx9ptSJMmfXePDNhYI8Ab22j2rOFSAV9dWlrrBQUo\nOqbCNTHGhQKBgDovU6flZ7V1tsaX2liIYPDRepBwZcl8yqSHQwG9fM7FHLYjuyPm\nVWVuS0yFXIRDVIVPK+ehUPTGxHdOPxsWRv2y4sYYEhOWtuEN47EbhgMPbkEWDlA0\nAzblPNd7UYPBAxezSPNs8NHEE25xfYdrZLks/kjR6FecIBpulvhFYIEXAoGAbIFG\naYT0JFyVGsZ0iUF9GulC4/JQgw3qt2ahycHepyrXjLbxX6R+vcTCGMbN8RJ/3AZ8\nC1zNfl6Vfm5iGdW39RBLjhESsHpkXho0uEgB4WA9P3LaQb9VGEyzR+cW703iqOTr\nI3hhH+sPS+ORj811m+vgoNe7siIfglb25YBmFYECgYBGuL36EpHBEHxAyuxOQVxS\nnupk0KgmcqY3pZxQBTHCDkzozsEdXh3JP2MbMpGL1kscDDTj8ChVBJq9JSEugDeh\nikfnSRpK3xvD4owKnr1Q/6X7ibCvnXm27JMfho9WmevP4BXP8tlGMv7qw5z8q1xu\nYPnfplz9SUiNzgadxrCg6w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gabdepa@neural-passkey-317416.iam.gserviceaccount.com",
+  "client_id": "114557361293130372891",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gabdepa%40neural-passkey-317416.iam.gserviceaccount.com"
+}
